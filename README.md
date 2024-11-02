@@ -1,0 +1,2 @@
+# Düzgün çalışmamaktadır.
+Burdaki amacım opencv ve scikit-learn kullanarak kameraya gösterdiğim elin taş mı kağıt mı makas mı olduğunu yapay zeka ile belirlemekti. Yeterince uğraşmadığım ve yapay zeka ustası olmadığım için bu proje düzgün olarak çalışmamakta. 
